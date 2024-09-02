@@ -2,16 +2,15 @@
 
 <br>
 	
-## <picture><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width = 30px></picture> **About me**
+## <picture><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width = 30px></picture> **Sobre mí**
 
 <br>
 
-- 💻 A passionate Front-end developer
-- 🔗 Personal website [link](https://portfolio-florencianieva.vercel.app/)
-- 📌 I live in Buenos Aires, Argentina
-- 🎯 I specialize in HTML, CSS, JavaScript, React.js and Vite
-- 🌱 I’m currently learning English language, Express.js, MySQL, ...
-- 💼 I’m currently open for an intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/13H95G6kE9-1OvQ74Cmz0Q-T4exlfBDj3/view?usp=drive_link)
+- 💻 Desarrolladora Front-End
+- 🔗 Portfolio [link](https://portfolio-florencianieva.vercel.app/)
+- 📌 Vivo en Buenos Aires, Argentina
+- 🎯 Me especializo en HTML, CSS, JavaScript, React.js
+- 🌱 Actualmente estoy cursando la Tecnicatura en Tecnologías de la Información y aprendiendo inglés
 
 <br>
 
@@ -19,7 +18,7 @@
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools </b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Lenguajes y herramientas </b>
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin: 0 10px;">
@@ -27,7 +26,7 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="margin: 0 10px;">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="margin: 0 10px;">
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" style="margin: 0 10px;">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" style="margin: 0 10px;">
 </div>
 
 <br>
@@ -41,6 +40,7 @@
 <br>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="margin: 0 10px;">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="margin: 0 10px;">
   <img src="https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white" alt="Bulma" style="margin: 0 10px;">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" style="margin: 0 10px;">
@@ -60,8 +60,30 @@
 <div align="center">
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firestore" style="margin: 0 10px;">
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" style="margin: 0 10px;">
+</div>
+
+<br>
+
+<div align="center">	
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" style="margin: 0 10px;">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" style="margin: 0 10px;">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" style="margin: 0 10px;">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white"Google Meet alt="" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="Zoom" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" style="margin: 0 10px;">
 </div>
 
 <br>
@@ -89,11 +111,11 @@
 
 <br>
 
-## <b align="center"> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b align="center"> Contactame por ...</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 
 <div align='center'>
-  <a href="https://linkedin.com/in/FlorenciaNievaa" target="_blank">
+  <a href="https://www.linkedin.com/in/florencianievaa/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=14" />
   </a>
 
@@ -102,4 +124,4 @@
   </a>
 </div>
 
-<img src="https://camo.githubusercontent.com/aae0aa702f81a89467df2cfad10792896a5945451068e1e629e9075dfd938cb9/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572" width="100%" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=60&amp;section=footer" style="max-width: 100%;">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
