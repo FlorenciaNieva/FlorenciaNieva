@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Florencia Nieva </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola , Me llamo Florencia Nieva </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
 	
@@ -6,11 +6,11 @@
 
 <br>
 
-- 💻 Desarrolladora Front-End
+- 💻 Desarrolladora Web
 - 🔗 Portfolio [link](https://portfolio-florencianieva.vercel.app/)
 - 📌 Vivo en Buenos Aires, Argentina
-- 🎯 Me especializo en HTML, CSS, JavaScript, React.js
-- 🌱 Actualmente estoy cursando la Tecnicatura en Tecnologías de la Información y aprendiendo inglés
+- 🎯 Me especializo en HTML, CSS, JavaScript, React.js, Java ...
+- 🌱 Actualmente estoy cursando la Tecnicatura en Tecnologías de la Información
 
 <br>
 
